@@ -26,3 +26,8 @@ The program uses a **grid-based approach**:
 ```python
 height = 28
 width = 56
+
+### 2️⃣ Nested Loop Structure
+for row in range(height):
+    for col in range(width):
+
